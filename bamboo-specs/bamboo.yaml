@@ -7,5 +7,5 @@ stages:
   - jobs:
       - scripts:
           - echo 'Going to slay the red dragons, watch me'
-          - sleep 1
+          - sleep 3
           - echo 'Nailed it'
