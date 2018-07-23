@@ -1,0 +1,11 @@
+project:
+  key: GHSPECS
+  plan:
+    key: SLAYAML
+    name: Dragon Slayer YAML
+stages:
+  - jobs:
+      - scripts:
+          - echo 'Going to slay the red dragon, watch me'
+          - sleep 1
+          - echo 'Nailed it'
